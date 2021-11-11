@@ -17,6 +17,9 @@ When you click the **Knit** button a document will be generated that includes bo
 summary(cars)
 min(cars$speed)
 max(cars$speed)
+
+
+
 ```
 
 ## Including Plots
